@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 :computer: **Ingeniero en Comunicaciones y Electronica**
+
 :pencil: **Empezando a aprender sobre programacion**
+
 :eyeglasses: **Geek de corazon**
-:eyeglasees: **Fan de la ciencia ficcion**
+
+:book: **Fan de la ciencia ficcion**
 
 ### Vias de contacto
 
