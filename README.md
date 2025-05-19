@@ -15,6 +15,6 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PaulChief119/PaulChief119)
 
 ### :zap: Actividad Reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
