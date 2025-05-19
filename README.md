@@ -13,3 +13,8 @@
 ![Website](https://www.linkedin.com/in/pablo-c-a2937b7b/)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PaulChief119/PaulChief119)
+
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
