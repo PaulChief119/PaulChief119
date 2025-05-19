@@ -12,7 +12,7 @@ jobs:
 
 build:
 
-name: Update Profile README
+name: Update Profile README2
 
 runs-on: ubuntu-latest
 
